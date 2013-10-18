@@ -1,3 +1,3 @@
 Hello from README.
 
-The cake is a lie.
+The cake is telling the truth.
